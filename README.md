@@ -1,10 +1,9 @@
-Im UlandSanders
-Developer for A24 | Website Creator | Contributer
+###  Im UlandSanders
+### Developer for A24 | Website Creator | Contributer
 -------------------------------------------------
 
-BIO
+### BIO
 welcome, hello, go, now, anyways, die, idiot, goodbye!
 
 
-\ i hate admins /
-This Profile Has Been Deemed Misleading For Repositorys Containing Virus's
+***This Profile Has Been Deemed Misleading For Repositorys Containing Virus's*** *Admin* **jesie mor**
