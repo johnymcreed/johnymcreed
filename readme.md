@@ -3,7 +3,7 @@
 
 <p>
   This is where i leave projects i either forget or dont work on. rarely do i have a ongoing project.
-   one of those rare cases is Jzxy an <b> Online Crasher </b> designed by mean and codede by me and controbutors.
+   one of those rare cases is Jzxy an <b> Online Crasher </b> designed by me and coded by me and controbutors.
    it's been an amazing year making these projects with people that actually have a good use to them.
 </p>
 
