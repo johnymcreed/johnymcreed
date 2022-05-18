@@ -1,2 +1,3 @@
-it's a great world out there. <br>
-just maybe not more me.
+Welcome to my page, its an ok place. 
+<br>
+sometimes i wish it was more tho.
